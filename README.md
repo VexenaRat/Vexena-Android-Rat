@@ -44,3 +44,8 @@ What this program can do?
 <br>
 ✅ And other things which i don't remember xD
 </b>
+
+<br>
+
+
+Made for educational purposes, and for my portfolio. If you have intents to use this for your family members like your child, you can reach me. Otherwise this program won't be available.
