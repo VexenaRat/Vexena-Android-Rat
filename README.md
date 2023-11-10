@@ -4,9 +4,13 @@ A tool for remotely control the android device
 Here is the video for showing that how it works:
 <a href="https://streamable.com/m5ajjs"/> Streamable Link</a>
 <br>
+<br>
+No, this is not another RAT, i just made this from stract.
+<br>
 What this program can do?
 <b>
-<br>
+<br><br>
+
 ✅ Control screen
 <br>
 ✅ Control screen V2 (Without color and images, only text, but very fast and stable)
@@ -35,6 +39,8 @@ What this program can do?
 ✅ Keylogger, saves all things even if internet is closed
 <br>
 ✅ Auto install if app is deleted somehow
+<br>
+✅ Inject html page to other apps
 <br>
 ✅ Binding to other apks
 <br>
