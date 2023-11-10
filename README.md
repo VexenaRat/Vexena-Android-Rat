@@ -2,7 +2,7 @@
 A tool for remotely control the android device
 
 Here is the video for showing that how it works:
-<a href="https://streamable.com/m5ajjs"/>
+<a href="https://streamable.com/m5ajjs"/> Streamable Link</a>
 <b>
 ✅ Control screen
 <br>
