@@ -5,7 +5,7 @@ Here is the video for showing that how it works:
 <a href="https://streamable.com/m5ajjs"/> Streamable Link</a>
 <br>
 <br>
-No, this is not another RAT, i just made this from stract. I select this name from a hero in Mobile Legends game xD.
+No, this is not re-skinned rat, i just made this from stract. I select this name from a hero in Mobile Legends game xD.
 <br>
 <br>
 What this program can do?
