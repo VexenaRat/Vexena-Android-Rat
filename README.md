@@ -61,4 +61,5 @@ What this program can do?
 <br>
 
 
-Made for educational purposes, and for my portfolio. If you have intents to use this for your family members like your child, you can reach me. Otherwise this program won't be available.
+Made for educational purposes, and for my portfolio. If you have intents to use this for your family members like your child, you can reach me in discord: shuffleah 
+. Otherwise this program won't be available.
