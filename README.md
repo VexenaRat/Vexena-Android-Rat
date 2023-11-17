@@ -1,10 +1,10 @@
 # Vexena-Android-Rat
 
-<center>
+<p align="center">
 <img src="https://github.com/VexenaRat/Vexena-Android-Rat/blob/9eaccc7e92df42b9bd5bf4e5eff4f8bce16689e2/vexena.jpeg" width="256" height="256"/>
 <br>
 A tool for remotely control the android device
-</center>
+</p>
 Here is the video for showing that how it works:
 <a href="https://streamable.com/m5ajjs"/> Streamable Link</a>
 <br>
